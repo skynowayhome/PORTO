@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lilita+One&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+#gambar1 {
+    border: solid 5px;
+    background-color: cornsilk;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 8px;
+    height: 587px;
+    width: 439px;
+    float: left;
+}
+
+#text1 {
+     text-align: center;  
+     font-family: Lilita One; 
+     font-size: 400%;
+     font-style: italic;
+     text-shadow: 3px 3px 3px #f9f9f9;
+     margin-top: 40px;
+}
+
+#text2 {
+    font-family: Cutive Mono;
+    color: solid;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 3%;
+    word-spacing: -2px;
+    background-color: darkorange;
+    
+}
